@@ -1,3 +1,4 @@
+//例1.5
 #include <bits/stdc++.h>
 using namespace std;
 //求解非空数组中的最大值和最小值
